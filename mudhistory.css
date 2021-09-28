@@ -1,0 +1,101 @@
+BODY {
+        COLOR: black; FONT-FAMILY: Times; BACKGROUND-COLOR: #f0f0f0
+}
+CENTER.navbar {
+        FONT-SIZE: 0.8em
+}
+H1 {
+        FONT-SIZE: 1.5em; COLOR: black; FONT-FAMILY: Arial
+}
+H2 {
+        FONT-SIZE: 1.2em; COLOR: black; TEXT-INDENT: 1em; FONT-FAMILY:
+Arial
+}
+H3 {
+        FONT-WEIGHT: bold; FONT-SIZE: 1.2em; COLOR: black; FONT-FAMILY:
+Arial; TEXT-ALIGN: center
+}
+H4 {
+        FONT-WEIGHT: bold; FONT-SIZE: 1em; COLOR: black; FONT-FAMILY:
+Arial; TEXT-ALIGN: left
+}
+A:link {
+        COLOR: black; TEXT-DECORATION: underline
+}
+A:active {
+        COLOR: black
+}
+A:visited {
+        COLOR: black; TEXT-DECORATION: underline
+}
+A:hover {
+        COLOR: #c0c0c0; TEXT-DECORATION: underline
+}
+A.small {
+        FONT-SIZE: 0.6em; FONT-FAMILY: Arial
+}
+P {
+        TEXT-INDENT: 2em
+}
+P.news {
+        MARGIN-LEFT: 5.5em; TEXT-INDENT: -5.5em
+}
+P.source {
+        MARGIN-LEFT: 5em; TEXT-INDENT: 0px
+}
+P.history {
+        MARGIN-LEFT: 3em; TEXT-INDENT: -3em
+}
+P.comment {
+        MARGIN-LEFT: 4em; TEXT-INDENT: 0px; FONT-STYLE: italic
+}
+P.list1 {
+        MARGIN-LEFT: 3em; TEXT-INDENT: 0px
+}
+P.list2 {
+        MARGIN-LEFT: 5em; TEXT-INDENT: 0px
+}
+P.list3 {
+        MARGIN-LEFT: 7em; TEXT-INDENT: 0px
+}
+P.question {
+        MARGIN-LEFT: 0em; TEXT-INDENT: 0px; FONT-WEIGHT: bold
+}
+P.changedate {
+        FONT-SIZE: 0.6em; FONT-FAMILY: Arial; TEXT-ALIGN: right
+}
+TR.mainzone {
+        FONT-WEIGHT: bold
+}
+TD.zone {
+        PADDING-LEFT: 2em
+}
+TT {
+        COLOR: #800000;
+        FONT-WEIGHT: bold
+}
+TT.rem{
+        COLOR: #ff0000;
+		FONT-WEIGHT: normal
+}
+TT.script {
+        COLOR: #800000;
+        FONT-WEIGHT: bold
+}
+TT.arg {
+        COLOR: #000080;
+		FONT-WEIGHT: normal
+}
+TT.var{
+        COLOR: #008080;
+		FONT-WEIGHT: normal
+}
+TT.mud{
+        COLOR: #000080;
+		FONT-WEIGHT: normal
+}
+TT.text{
+        COLOR: #008000;
+		FONT-WEIGHT: normal
+}
+
